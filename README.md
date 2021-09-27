@@ -1,4 +1,4 @@
 # DSA-JAVA
-My journey on learning DSA using Java
+Learning DSA using Java
 Still more to be updated
-Learning through community classroom
+Learning through community classroom DSA_JAVA Playlist
